@@ -17,8 +17,8 @@ A basic Python program that allows you to control the volume (with your right ha
 - `numpy`
 
 ## Installation
-
-1.  **Navigate (cd) to the project folder in your terminal:**
+Download the files except the README, put them in a folder
+1.  **Navigate (cd) to this folder in your terminal:**
 
 2.  **Create a virtual environment (if you haven't already):**
     ```bash
@@ -38,7 +38,7 @@ A basic Python program that allows you to control the volume (with your right ha
 
 ## Usage
 
-Run the `theremin.py` script from your activated virtual environment:
+Run the `theremin.py` script from your activated virtual environment in your terminal:
 
 ```bash
 python3 theremin.py
