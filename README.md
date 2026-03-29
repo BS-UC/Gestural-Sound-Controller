@@ -6,7 +6,7 @@ A basic Python program that allows you to control the volume (with your right ha
 - **Pitch Control**: Raise and lower your left hand to change the pitch.
 - **Volume Control**: Raise and lower your right hand to control the volume.
 - **Auto-Calibration**: The program automatically calibrates to your initial hand positions after 3 seconds of stability.
-- **Smoothing**: Provides smooth pitch transitions for subtle movements, but now as responsive to fast movements.
+- **Smoothing**: Provides smooth pitch transitions for subtle movements, but not really responsive to fast movements.
 
 ## Requirements
 
